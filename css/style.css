@@ -1,0 +1,30 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 2rem;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #2a4d69;
+    margin-bottom: 1.5rem;
+}
+
+ul {
+    list-style-type: square;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+li {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+strong {
+    color: #0077b6;
+}
